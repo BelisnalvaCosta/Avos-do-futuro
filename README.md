@@ -5,3 +5,5 @@ Projeto feita com Flex Box - Na linguagem html5 e css, feita no Visual Studio Co
 
 Este projeto tem o objetivo de ser informativo e mostrar que mesmo com a idade um pouco avançada há esperanças para muitas pessoas que se sentem despresadas e muitas até em asílios(casa de repouso)
 A Idade não é mais uma barreira.
+
+Link de uma das imagens: file:///C:/Users/X220/Inf_Box/src/Avos.trabalhando%20juntos.webp
